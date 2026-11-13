@@ -1,4 +1,4 @@
-OPENROUTER_API_KEY=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
+OPENROUTER_API_KEY=
 MODEL=openrouter/free
 # Tavily keyless MCP endpoint
 TAVILY_MCP_URL=https://mcp.tavily.com/mcp/
