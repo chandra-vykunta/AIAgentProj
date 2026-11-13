@@ -1,0 +1,12 @@
+Flask
+Werkzeug
+dotenv
+pandas
+numpy
+fastmcp
+faiss-cpu
+sentence-transformers
+openai
+openpyxl
+langchain
+langchain-openrouter
